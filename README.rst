@@ -2,7 +2,7 @@
 EdmontonPy
 ==========
 
-A website devoted educate to promoting Python in Edmonton withi a year!.
+A website devoted educate to promoting Python in Edmonton within a year!.
 
 Getting Started
 ===============
