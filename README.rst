@@ -2,12 +2,12 @@
 EdmontonPy
 ==========
 
-A website devoted to promoting Python in Edmonton.
+A website devoted educate to promoting Python in Edmonton withi a year!.
 
 Getting Started
 ===============
 
-EdmontonPy is a standard Django website. Deployment is done using
+EdmontonPy is a standard Django website. Deployment is done by using
 EdmontonPy-Ops. To install use pipenv.
 
 .. code-block:: text
